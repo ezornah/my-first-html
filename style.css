@@ -1,6 +1,6 @@
 body{
     background-color: #fde0ca;
-    margin: 50px;
+    margin: 0px;
     font-family: sans-serif;
 }
 
@@ -23,4 +23,9 @@ body{
 
 .reset {
     clear: both;
+}
+
+#maincontainer {
+    width: 850px;
+    margin: 0px auto;
 }
