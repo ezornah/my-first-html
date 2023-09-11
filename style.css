@@ -1,0 +1,14 @@
+body{
+    background-color: #fde0ca;
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+#introtext1 {
+    color: blue;
+}
+
+.highlight {
+    color: rgb(255, 0, 0);
+    font-weight: bold;
+}
