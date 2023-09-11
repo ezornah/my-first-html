@@ -12,3 +12,15 @@ body{
     color: rgb(255, 0, 0);
     font-weight: bold;
 }
+
+#introContainer {
+    width: 640px;
+}
+
+#introPicture {
+    float: left;
+}
+
+.reset {
+    clear: both;
+}
