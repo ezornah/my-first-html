@@ -35,3 +35,19 @@ body{
 #hobbycontainer {
     width: 30;
 }
+
+#paddingtest {
+    width: 300;
+    height: 300;
+    background-color: #fa0404;
+}
+
+p {
+    margin: 0px;
+}
+
+#navigation {
+    width: 35px;
+    padding: 5px;
+    background-color: rgb(43, 150, 226);
+}
