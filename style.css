@@ -1,5 +1,5 @@
 body{
-    background-color: #fde0ca;
+    background-color: #576ec0;
     margin: 0px;
     font-family: sans-serif;
 }
@@ -14,7 +14,9 @@ body{
 }
 
 #introContainer {
-    width: 640px;
+    width: 450x;
+    margin: 0px 35px 0px 0px;
+    float:left;
 }
 
 #introPicture {
@@ -28,4 +30,8 @@ body{
 #maincontainer {
     width: 850px;
     margin: 0px auto;
+}
+
+#hobbycontainer {
+    width: 50;
 }
