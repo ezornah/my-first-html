@@ -6,6 +6,7 @@ body{
 
 #introtext1 {
     color: rgb(0, 0, 0);
+    float: left;
 }
 
 .highlight {
@@ -15,11 +16,13 @@ body{
 
 #introContainer {
     width: 450x;
-    margin: 0px 35px 0px 0px;
+    margin: 0px auto;
     float:left;
 }
 
 #introPicture {
+    margin: 0px auto;
+    width: 150px;
     float: left;
 }
 
@@ -28,18 +31,13 @@ body{
 }
 
 #maincontainer {
-    width: 900px;
+    width: 800px;
     margin: 0px auto;
 }
 
 #hobbycontainer {
-    width: 30;
-}
-
-#paddingtest {
-    width: 300;
-    height: 300;
-    background-color: #fa0404;
+    float: left;
+    margin: 10px;
 }
 
 p {
@@ -50,4 +48,17 @@ p {
     width: 35px;
     padding: 5px;
     background-color: rgb(43, 150, 226);
+    float: left;
+}
+
+#secondPicture {
+    margin: 15px auto;
+    width: 200px;
+    float: left;
+}
+
+#miniPicture {
+    margin: 15px auto;
+    width: 100px;
+    float: left;
 }
